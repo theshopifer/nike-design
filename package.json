@@ -1,0 +1,23 @@
+{
+  "name": "nike-design",
+  "version": "1.0.0",
+  "description": "Nike Design - High-performance interactive e-commerce showcase featuring 3D clothes rail conveyor, shoe orbit 360, interactive runway lookbook, and mobile video stories.",
+  "type": "module",
+  "scripts": {
+    "dev": "node serve.js",
+    "start": "node serve.js",
+    "build": "node build.js",
+    "preview": "node serve.js"
+  },
+  "keywords": [
+    "nike",
+    "ecommerce",
+    "3d",
+    "streetwear",
+    "shoes",
+    "fashion",
+    "shopify"
+  ],
+  "author": "theshopifer <theshopifer@gmail.com>",
+  "license": "MIT"
+}
